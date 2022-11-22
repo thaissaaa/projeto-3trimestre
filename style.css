@@ -1,52 +1,13 @@
 body {
-    background-color: rgb(127, 233, 233);
-}
+   background-color: rgb(183, 207, 224);
 
-wrapper {
-  height: 420px;
-  width: 654px;
-  margin: 50px auto;
-  border-radius: 7px 7px 7px;
-  -webkit-box-shadow: 0px 14px 32px 0px rgba(0,0,0,0,15);
-  -moz-box-shadow: 0px 14px 32px 0px rgba(0,0,0,0,15);
-  box-shadow: 0px 14px 32px 0px  rgba(0,0,0,0,15);
 }
+.wrapper{
 
-#sete{
-float: left;
 height: 420px;
-width: 327px;
-}
-
-.produtotexto h1{
-    margin: 0 0 0 38px;
-    padding-top: 1px;
-    font-size: 34px;
-    color: black;
-}
-
-.produto h1
-.botaopreco p {
-    font-family: 'benthan, serif';
-}
-
-.produtotexto h2 {
-margin: 0 0 47px 38px;
-font-size: 13px;
-font-family: 'releway', sans-serif;
-font-weight: 400px;
-text-transform: uppercase;
-color: azure;
-
-}
-
-.produtotexto p{
-height: 255px;
-padding-bottom: 100px;
-margin: 0 0 47px 38px;
-
-
-
+width: 654px;
+margin: 50 auto;
+border-radius: 7px 7px 7px 7px;
 
 
 
