@@ -1,0 +1,13 @@
+.cabecalho {
+ position: relative;
+ padding:  14px 70px;
+ text-align:left;
+ 
+  color: rgb(99, 170, 152);
+}
+.lista{
+   position: relative;
+    font-family: 'Josefin Sans', sans-serif;
+
+
+}
