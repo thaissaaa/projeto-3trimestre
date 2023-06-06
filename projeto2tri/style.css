@@ -1,0 +1,23 @@
+body{
+    background-image:"universe.png" ;
+    background-color: #272727;
+}
+
+.container{
+    
+    background-color: rgba(131, 210, 221, 0.617);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    margin: 0px auto;
+}
+.box{
+    display: flex;
+    
+}
+
