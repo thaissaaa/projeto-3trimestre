@@ -1,7 +1,7 @@
 body{
     background-image:"universe.png" ;
     background-repeat: no-repeat;
-    background-color: #f4f3f3;
+    background-color: #000000;
 }
 
 .container{
@@ -12,15 +12,31 @@ body{
     
 }
 h1{
-    color: rgb(0, 0, 0);
+    color: rgb(48, 202, 222);
     font-family: sans-serif;
     margin: 0px auto;
 }
 .box{
     display: flex;
  
-p{
- padding: 40px;
- font-size:x
- 
+}
+.mercurio{
+color: rgb(255, 255, 255);
+font-size: 20px;
+}
+
+.venus{
+color: aliceblue;
+font-size: 20px;
+
+}
+.terra{
+color: aliceblue;
+font-size: 20px;
+}
+
+.marte{
+color: aliceblue;
+font-size: 20px;
+
 }
