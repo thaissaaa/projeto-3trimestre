@@ -3,7 +3,7 @@ body{
     background-repeat: no-repeat;
     background-color: #000000;
 }
-
+body, input, select, textarea
 .container{
      
     padding: 10px;
@@ -23,20 +23,28 @@ h1{
 .mercurio{
 color: rgb(255, 255, 255);
 font-size: 20px;
+margin: 100px;
 }
 
 .venus{
 color: aliceblue;
 font-size: 20px;
-
+margin: 100px;
 }
 .terra{
 color: aliceblue;
 font-size: 20px;
+margin: 100px;
 }
 
 .marte{
 color: aliceblue;
 font-size: 20px;
-
+margin: 100px;
 }
+.sistema{
+color: aliceblue;
+font-size: 20px;
+margin: 100px;
+}
+
