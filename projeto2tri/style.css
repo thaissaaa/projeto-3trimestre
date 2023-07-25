@@ -22,29 +22,38 @@ h1{
 }
 .mercurio{
 color: rgb(255, 255, 255);
-font-size: 20px;
-margin: 100px;
+font-size: 22px;
+margin: 150px;
 }
 
 .venus{
 color: aliceblue;
-font-size: 20px;
-margin: 100px;
+font-size: 22px;
+margin: 150px;
 }
 .terra{
 color: aliceblue;
-font-size: 20px;
-margin: 100px;
+font-size: 22px;
+margin: 150px;
 }
 
 .marte{
 color: aliceblue;
-font-size: 20px;
-margin: 100px;
+font-size: 22px;
+margin: 150px;
 }
 .sistema{
 color: aliceblue;
-font-size: 20px;
-margin: 100px;
+font-size: 22px;
+margin: 150px;
 }
-
+.jupter{
+color: aliceblue;
+font-size: 22px;
+margin: 150px;    
+}
+.saturno{
+color: antiquewhite;
+font-size: 22px;
+margin: 150px;    
+}
