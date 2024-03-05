@@ -1,14 +1,5 @@
 body {
-   background-color: rgb(183, 207, 224);
-
+    background-color: #8bd1c5;
+color:aliceblue
 }
-.wrapper{
 
-height: 420px;
-width: 654px;
-margin: 50 auto;
-border-radius: 7px 7px 7px 7px;
-
-
-
-}
