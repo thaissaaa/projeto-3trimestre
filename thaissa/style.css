@@ -81,4 +81,5 @@ body {
             width: 100%;
             font-size: 32px;
         }
-                
+        .ativo{
+          background-color: var(__botao_ativo)
